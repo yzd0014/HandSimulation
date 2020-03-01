@@ -1,0 +1,180 @@
+# Blender MTL File: 'Halo Reach - Vehicle - Revenant.blend'
+# Material Count: 14
+
+newmtl covenant_decals01
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\covenant_decals01.tif
+map_Ka textures\\covenant_decals01.tif
+
+newmtl covenant_decals01.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\covenant_decals01.tif
+map_Ka textures\\covenant_decals01.tif
+
+newmtl covenant_decals01_variant
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\covenant_decals01.tif
+map_Ka textures\\covenant_decals01.tif
+
+newmtl covenant_decals01_variant.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\covenant_decals01.tif
+map_Ka textures\\covenant_decals01.tif
+
+newmtl revenant_glass
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\gray_50_percent.tif
+map_Ka textures\\gray_50_percent.tif
+
+newmtl revenant_illum
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\plasma_launcher_holo.tif
+map_Ka textures\\plasma_launcher_holo.tif
+map_Ke textures\\plasma_launcher_holo.tif
+
+newmtl revenant_illum.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\plasma_launcher_holo.tif
+map_Ka textures\\plasma_launcher_holo.tif
+map_Ke textures\\plasma_launcher_holo.tif
+
+newmtl revenant_matte
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\revenant_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\revenant_diffuse.tif
+map_Ke textures\\revenant_illum.tif
+
+newmtl revenant_metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\revenant_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\revenant_diffuse.tif
+map_Ke textures\\revenant_illum.tif
+
+newmtl revenant_metal.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\revenant_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\revenant_diffuse.tif
+map_Ke textures\\revenant_illum.tif
+
+newmtl revenant_seat_shell
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\revenant_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\revenant_diffuse.tif
+
+newmtl revenant_shell
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\revenant_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\revenant_diffuse.tif
+
+newmtl revenant_shell.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\revenant_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\revenant_diffuse.tif
+
+newmtl revenant_zcam
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke textures\\gray_50_percent.tif

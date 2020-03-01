@@ -1,0 +1,89 @@
+# Blender MTL File: 'Halo 3 - Vehicle - Brute Prowler.blend'
+# Material Count: 7
+
+newmtl mauler
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\mauler.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\mauler.tif
+
+newmtl mauler.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\mauler.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\mauler.tif
+
+newmtl mauler_anti_grav
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke textures\\mauler.tif
+
+newmtl mauler_dash
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke textures\\mauler.tif
+
+newmtl mauler_illum
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke textures\\mauler.tif
+
+newmtl viewers
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\gray_50_percent.tif
+map_Ka textures\\gray_50_percent.tif
+map_Ke textures\\gray_50_percent.tif
+map_d textures\\gray_50_percent.tif
+
+newmtl viewers_right
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\gray_50_percent.tif
+map_Ka textures\\gray_50_percent.tif
+map_Ke textures\\gray_50_percent.tif
+map_d textures\\gray_50_percent.tif

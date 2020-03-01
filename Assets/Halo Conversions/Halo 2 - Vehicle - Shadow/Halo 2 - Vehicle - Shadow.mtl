@@ -1,0 +1,28 @@
+# Blender MTL File: 'Halo 2 - Vehicle - Shadow.blend'
+# Material Count: 2
+
+newmtl creep_extras
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\creep_hull.tif
+map_Ka textures\\creep_hull.tif
+map_d textures\\creep_hull.tif
+
+newmtl creep_hull
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\creep_hull.tif
+map_Ka textures\\creep_hull.tif
+map_d textures\\creep_hull.tif

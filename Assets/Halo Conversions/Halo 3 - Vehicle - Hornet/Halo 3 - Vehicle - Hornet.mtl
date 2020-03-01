@@ -1,0 +1,67 @@
+# Blender MTL File: 'Halo 3 - Vehicle - Hornet.blend'
+# Material Count: 5
+
+newmtl hornet_blur
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\hornet.tif
+map_Ka textures\\hornet.tif
+
+newmtl hornet_decal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\pelican_decals.tif
+map_Ka textures\\pelican_decals.tif
+map_d textures\\pelican_decals.tif
+
+newmtl hornet_glass
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\hornet.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\hornet.tif
+
+newmtl hornet_metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\hornet.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\hornet.tif
+
+newmtl hornet_thrust
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\gray_50_percent.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\gray_50_percent.tif
+map_Ke textures\\hornet.tif

@@ -1,0 +1,328 @@
+# Blender MTL File: 'Halo 3 - Vehicle - Elephant.blend'
+# Material Count: 25
+
+newmtl beh_console
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_console_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_console_diff.tif
+map_Ke textures\\bohemeth_console_illum.tif
+
+newmtl beh_decals
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_decal_text_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_decal_text_diff.tif
+map_d textures\\bohemeth_decal_text_diff.tif
+
+newmtl beh_floor_metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\metal_coorigated_a.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\metal_coorigated_a.tif
+
+newmtl beh_glass
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\glass_etched.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\glass_etched.tif
+
+newmtl beh_grate
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\grate_a.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\grate_a.tif
+
+newmtl beh_lower_control
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_lower_control.tif
+map_Ka textures\\bohemeth_lower_control.tif
+
+newmtl beh_metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\beh_metal_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\beh_metal_diff.tif
+
+newmtl beh_panels
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_panels_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_panels_diff.tif
+
+newmtl beh_panels2
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemoth_panels2_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemoth_panels2_diff.tif
+
+newmtl beh_parts
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_parts_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_parts_diff.tif
+
+newmtl beh_ramp
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_ramp_grate_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_ramp_grate_diff.tif
+
+newmtl beh_stains
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_stains_diff.tif
+map_Ka textures\\bohemeth_stains_diff.tif
+map_d textures\\bohemeth_stains_diff.tif
+
+newmtl beh_tiling_panels
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_tiling_panels_color_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_tiling_panels_color_diff.tif
+
+newmtl beh_treads
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_treads_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_treads_diff.tif
+
+newmtl beh_treads_left
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_treads_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_treads_diff.tif
+
+newmtl beh_treads_right
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_treads_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_treads_diff.tif
+
+newmtl beh_wall
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\bohemeth_wall_diff.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\bohemeth_wall_diff.tif
+
+newmtl generator_turbine
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\turbine.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\turbine.tif
+
+newmtl light_glass
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\lamp.tif
+map_Ka textures\\lamp.tif
+
+newmtl military_decals
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\decals_weathered.tif
+map_Ka textures\\decals_weathered.tif
+map_d textures\\decals_weathered.tif
+
+newmtl military_equipment
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\human_military_equipment_up.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\human_military_equipment_up.tif
+
+newmtl military_equipment_2
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\human_military_equipment_2.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\human_military_equipment_2.tif
+
+newmtl quartz_light
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\lamp.tif
+map_Ka textures\\lamp.tif
+map_Ke textures\\lamp_illum.tif
+
+newmtl scorpion_hull
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\CompositeTexturemap_Composite.tga
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\CompositeTexturemap_Composite.tga
+
+newmtl xtra_decals
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\pelican_decals.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\pelican_decals.tif
+map_d textures\\pelican_decals.tif

@@ -1,0 +1,77 @@
+# Blender MTL File: 'Halo 2 - Vehicle - Spectre.blend'
+# Material Count: 6
+
+newmtl spectre
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\spectre.tif
+map_Ka textures\\spectre.tif
+map_d textures\\spectre.tif
+
+newmtl spectre.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\spectre.tif
+map_Ka textures\\spectre.tif
+map_d textures\\spectre.tif
+
+newmtl spectre_dash
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\ghost_dash.tif
+map_Ka textures\\ghost_dash.tif
+map_d textures\\ghost_dash.tif
+
+newmtl spectre_illum
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\spectre.tif
+map_Ka textures\\spectre.tif
+map_d textures\\spectre.tif
+
+newmtl spectre_illum.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\spectre.tif
+map_Ka textures\\spectre.tif
+map_d textures\\spectre.tif
+
+newmtl window_shield
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2

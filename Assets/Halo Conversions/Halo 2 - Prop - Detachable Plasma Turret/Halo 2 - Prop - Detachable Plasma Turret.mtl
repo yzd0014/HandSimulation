@@ -1,0 +1,54 @@
+# Blender MTL File: 'Halo 2 - Prop - Detachable Plasma Turret.blend'
+# Material Count: 4
+
+newmtl plasma_cannon_dull
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\plasma_cannon.tif
+map_Ka textures\\plasma_cannon.tif
+map_d textures\\plasma_cannon.tif
+
+newmtl plasma_cannon_luminous
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\plasma_cannon.tif
+map_Ka textures\\plasma_cannon.tif
+map_d textures\\plasma_cannon.tif
+
+newmtl plasma_cannon_shiny
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\plasma_cannon.tif
+map_Ka textures\\plasma_cannon.tif
+map_d textures\\plasma_cannon.tif
+
+newmtl plasma_illum
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\plasma_cannon.tif
+map_Ka textures\\plasma_cannon.tif
+map_d textures\\plasma_cannon.tif

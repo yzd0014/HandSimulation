@@ -1,0 +1,110 @@
+# Blender MTL File: 'Halo Reach - Vehicle - Covenant Dropship.blend'
+# Material Count: 8
+
+newmtl cov_damage_charred_hole_01_noparalax
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_damage_charred_hole_01.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\cov_damage_charred_hole_01.tif
+
+newmtl cov_damage_charred_hole_02_noparalax
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_damage_charred_hole_02.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\cov_damage_charred_hole_02.tif
+
+newmtl cov_damage_ripped_hex_cage_01
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_damage_ripped_hex_cage_01.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\cov_damage_ripped_hex_cage_01.tif
+map_Ke textures\\cov_damage_ripped_hex_cage_01_illum.tif
+
+newmtl cov_damage_ripped_open_tech_01_nop
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_damage_ripped_open_tech_01.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\cov_damage_ripped_open_tech_01.tif
+map_Ke textures\\cov_damage_ripped_open_tech_01_illum.tif
+
+newmtl cov_damage_ripped_open_tech_03_noparalax
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_damage_ripped_open_tech_03.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\cov_damage_ripped_open_tech_03.tif
+map_Ke textures\\cov_damage_ripped_open_tech_03_illum.tif
+
+newmtl indicator_holo
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\gray_50_percent.tif
+map_Ka textures\\gray_50_percent.tif
+map_Ke textures\\plasma_launcher_holo.tif
+map_d textures\\gray_50_percent.tif
+
+newmtl tuning_fork_metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\tuningfork_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\tuningfork_diffuse.tif
+
+newmtl tuning_fork_shell
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\tuningfork_diffuse.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\tuningfork_diffuse.tif

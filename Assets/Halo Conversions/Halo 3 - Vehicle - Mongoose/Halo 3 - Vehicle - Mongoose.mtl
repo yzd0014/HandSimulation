@@ -1,0 +1,91 @@
+# Blender MTL File: 'Halo 3 - Vehicle - Mongoose.blend'
+# Material Count: 7
+
+newmtl mongoose_blur
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wheels.tif
+map_Ka textures\\wheels.tif
+
+newmtl mongoose_chain
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wheels.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\wheels.tif
+
+newmtl mongoose_decal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\human_decals.tif
+map_Ka textures\\human_decals.tif
+map_d textures\\human_decals.tif
+
+newmtl mongoose_glass
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\mongoose.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\mongoose.tif
+
+newmtl mongoose_hull
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\mongoose.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\mongoose.tif
+
+newmtl mongoose_speedo
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wheels.tif
+map_Ka textures\\wheels.tif
+
+newmtl mongoose_wheel
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wheels.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\wheels.tif

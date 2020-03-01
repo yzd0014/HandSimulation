@@ -1,0 +1,90 @@
+# Blender MTL File: 'Halo 2 - Vehicle - Scarab.blend'
+# Material Count: 7
+
+newmtl scarab_additive_lights
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\scarab_hull_int.tif
+map_Ka textures\\scarab_hull_int.tif
+map_d textures\\scarab_hull_int.tif
+
+newmtl scarab_bloom
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\scarab_hull_ext.tif
+map_Ka textures\\scarab_hull_ext.tif
+map_d textures\\scarab_hull_ext.tif
+
+newmtl scarab_bloom_int
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\scarab_hull_int.tif
+map_Ka textures\\scarab_hull_int.tif
+map_d textures\\scarab_hull_int.tif
+
+newmtl scarab_hull_ext
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\scarab_hull_ext.tif
+map_Ka textures\\scarab_hull_ext.tif
+map_d textures\\scarab_hull_ext.tif
+
+newmtl scarab_hull_int
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\scarab_hull_int.tif
+map_Ka textures\\scarab_hull_int.tif
+map_d textures\\scarab_hull_int.tif
+
+newmtl scarab_leg_shell
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\scarab_legs.tif
+map_Ka textures\\scarab_legs.tif
+map_d textures\\scarab_legs.tif
+
+newmtl wire_174186203
+Ns 31.372549
+Ka 0.735967 0.735967 0.735967
+Kd 0.682400 0.729400 0.796100
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

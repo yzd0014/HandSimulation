@@ -1,0 +1,77 @@
+# Blender MTL File: 'Halo 2 - Prop - Covenant Antennae.blend'
+# Material Count: 6
+
+newmtl cov_comm_tower_illum
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_holo_generator_illum.tif
+map_Ka textures\\cov_holo_generator_illum.tif
+map_d textures\\cov_holo_generator_illum.tif
+
+newmtl cov_comm_tower_illum_pulse
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\antennae_comm_noise_a.tif
+map_Ka textures\\antennae_comm_noise_a.tif
+map_d textures\\antennae_comm_noise_a.tif
+
+newmtl cov_comm_tower_illum_pulse_static
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\antennae_comm_noise_a.tif
+map_Ka textures\\antennae_comm_noise_a.tif
+map_d textures\\antennae_comm_noise_a.tif
+
+newmtl cov_comm_tower_illum_stream
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl cov_comm_tower_illum_web
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\antennae_comm_noise_a.tif
+map_Ka textures\\antennae_comm_noise_a.tif
+map_d textures\\antennae_comm_noise_a.tif
+
+newmtl cov_comm_tower_shiny
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\cov_comm_tower.tif
+map_Ka textures\\cov_comm_tower.tif
+map_d textures\\cov_comm_tower.tif

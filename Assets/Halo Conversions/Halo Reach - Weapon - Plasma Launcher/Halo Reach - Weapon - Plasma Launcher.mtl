@@ -1,0 +1,64 @@
+# Blender MTL File: 'Halo Reach - Weapon - Plasma Launcher.blend'
+# Material Count: 5
+
+newmtl circular_indicator
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\CompositeTexturemap_Composite.tga
+map_Ka textures\\CompositeTexturemap_Composite.tga
+map_Ke textures\\CompositeTexturemap_Composite.tga
+map_d textures\\gray_50_percent.tif
+
+newmtl null
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl plasma_launcher_display
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl plasma_launcher_metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\CompositeTexturemap_Composite.tga
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\CompositeTexturemap_Composite.tga
+map_Ks textures\\Color_Correction_Color_Correction.tga
+
+newmtl plasma_launcher_shell
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\CompositeTexturemap_Composite.tga
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\CompositeTexturemap_Composite.tga
+map_Ks textures\\Color_Correction_Color_Correction.tga

@@ -1,0 +1,40 @@
+# Blender MTL File: 'Halo 3 - Vehicle - Brute Chopper.blend'
+# Material Count: 3
+
+newmtl brute_chopper
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\brute_chopper.tif
+map_Bump textures\\Normal_Bump_Normal_Bump.tga
+map_Ka textures\\brute_chopper.tif
+
+newmtl brute_chopper_blur
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\brute_chopper_blur.tif
+map_Ka textures\\brute_chopper_blur.tif
+
+newmtl brute_chopper_illum
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\brute_chopper.tif
+map_Ka textures\\brute_chopper.tif
+map_Ke textures\\brute_chopper.tif
